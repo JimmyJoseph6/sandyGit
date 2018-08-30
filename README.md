@@ -1,5 +1,5 @@
 # sandyGit
 
-##My Second Git!!  Yuhuu!!
+## My Second Git!!  Yuhuu!!
 
 
